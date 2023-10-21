@@ -1,0 +1,16 @@
+{
+	"editor.formatOnSave": true,
+	"typescript.tsdk": "node_modules/typescript/lib",
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.codeActionsOnSave": {
+		"source.fixAll": true
+	},
+	"tailwindCSS.classAttributes": ["class", "className", "ngClass"],
+	"files.associations": {
+		"*.css": "tailwindcss"
+	},
+	"javascript.preferences.importModuleSpecifier": "non-relative",
+	"editor.quickSuggestions": {
+		"strings": true
+	},
+}
